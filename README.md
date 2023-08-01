@@ -28,7 +28,7 @@
   <h3 align="center">Repositório de Cinética Química</h3>
 
   <p align="center">
-    Bem vindo ao nosso projeto de Cinética Química, disciplina do terceiro semestre da Ilum Escola de Ciência!
+    Bem vindo ao nosso projeto de Cinética Química, disciplina do quarto semestre da Ilum Escola de Ciência!
    
   </p>
 </div>
@@ -131,10 +131,10 @@ Entre nas pastas [Desafio 1](https://github.com/benetao/Cinetica_Quimica/tree/ma
 Quem são os alunos por trás desse projeto de Cinética Química? Pois bem, permita-nos nos apresentar:
 
 - 👋 Somos João Guilherme Caramês e Isabela Beneti
-- 📕 Estamos no terceiro semestre do Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência
+- 📕 Estamos no quarto semestre do Bacharelado em Ciência e Tecnologia da Ilum Escola de Ciência
 - 👨‍🔬 A Ilum é uma iniciativa da instituição social CNPEM (Centro Nacional de Pesquisa em Energia e Materiais)
 - 🔥 No curso, temos uma grade curricular bem interdisciplinar, que inclui a matéria de Cinética Química
-- 🚗 Nosso objetivo, na disciplina, é entender melhor processos termodinâmicos e suas aplicações na vida real
+- 🚗 Nosso objetivo, na disciplina, é entender melhor conceitos de cinética química e desenvolver nosso próprio modelo
 
 <!-- CONTATO -->
 ### Contatos <a name="contato"></a>
