@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="![neural](https://user-images.githubusercontent.com/106626661/225796535-51b41213-8397-435d-ab94-dc64551a2da1.gif)">
-    <img src="https://github.com/benetao/Cinetica_Quimica/assets/106626661/12347804-032b-4d95-91ae699210dd03ee" alt="Logo" width="220" height="220">
+    <img src="moleculinhas.png" alt="Logo" width="350" height="350">
   </a>
 
   <h3 align="center">Repositório de Cinética Química</h3>
@@ -79,12 +79,6 @@ Na disciplina de Cinética Química, ministrada pelo professor Amauri de Paula, 
 ### O Projeto <a name= "projeto"></a>
 
 Ao longo do desenvolvimento do problema representado na imagem abaixo, nós selecionamos todas as variáveis envolvidas a partir de considerações físico-químicas, determinamos os estados termodinâmicos do sistema, calculamos todos os parâmetros e variáveis numéricas do problema utilizando Python, estabelecemos um fluxograma (pipeline) que incorpora todos os cálculos necessários e que é adaptável à escolha de outros líquidos combustíveis, justificando sempre todas as escolhas e soluções encontradas.
-
-<div align="center">
-  <a href="![neural](https://user-images.githubusercontent.com/106626661/225796535-51b41213-8397-435d-ab94-dc64551a2da1.gif)">
-    <img src="https://user-images.githubusercontent.com/106626661/226015817-8e68aac6-a052-4365-b51f-db0617168af1.png" alt="Logo" width="750" height="440">
-  </a>
-</div>
 
 ### Ferramentas <a name="ferramentas"></a>
 
