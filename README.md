@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="![neural](https://user-images.githubusercontent.com/106626661/225796535-51b41213-8397-435d-ab94-dc64551a2da1.gif)">
-    <img src="https://user-images.githubusercontent.com/106626661/226002278-38ec553a-d64b-4ce6-834f-1eabb9c3d096.png" alt="Logo" width="220" height="220">
+    <img src="https://github.com/benetao/Cinetica_Quimica/assets/106626661/12347804-032b-4d95-91ae699210dd03ee" alt="Logo" width="220" height="220">
   </a>
 
   <h3 align="center">Repositório de Cinética Química</h3>
