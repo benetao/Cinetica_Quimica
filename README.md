@@ -64,22 +64,19 @@
 <!-- Sobre a Disciplina e o Projeto -->
 ## Sobre a Disciplina <a name="sobre"></a>
 
-Na disciplina de Cinética Química, ministrada pelo professor Amauri de Paula, nós- alunos- fomos desafiados a resolver um problema envolvendo um sistema composto por uma usina elétrica a vapor operando a partir da combustão de uma mistura líquida de combustíveis. Para resolvê-lo, devemos passar por várias etapas e desafios, que engloba temas centrais da termodinâmica, como:
-* `Energia interna` 
-* `Entalpia`
-* `Energia livre`
-* `Transições de fase`
-* `Misturas e soluções`
-* `Reações químicas`
-* `Quantidades parciais molares`
-* `Compressibilidade e gás real`
-* `Ciclos termodinâmicos`
+Na disciplina de Cinética Química, ministrada pelo professor Amauri de Paula, nós- alunos- fomos desafiados a desenvolver uma simulação computacional de uma reação química, focando nos modelos físico-químicos que descrevem os processos de reações químicas. Para tanto, exploraremos os seguintes tópicos:
 
+* `Mecanismos de reação`;
 
+*`Leis de velocidade`;
+
+*`Energia de ativação`;
+
+* `Ordem de reação`.
+ 
 ### O Projeto <a name= "projeto"></a>
 
-Ao longo do desenvolvimento do problema representado na imagem abaixo, nós selecionamos todas as variáveis envolvidas a partir de considerações físico-químicas, determinamos os estados termodinâmicos do sistema, calculamos todos os parâmetros e variáveis numéricas do problema utilizando Python, estabelecemos um fluxograma (pipeline) que incorpora todos os cálculos necessários e que é adaptável à escolha de outros líquidos combustíveis, justificando sempre todas as escolhas e soluções encontradas.
-
+Teremos um problema único para desenvolver ao longo do semestre o qual reforçará o aprendizado dos modelos de reações químicas e suas aplicações. O problema central da disciplina é uma simulação computacional, que foi ser desenvolvida em 3 etapas, as quais estão definidas abaixo. O objetivo principal desta atividade é o de simular como uma reação química evolui do ponto de vista da cinética química, considerando as leis de velocidades, a distribuição estatística da velocidade das partículas e os conceitos físico-químicos envolvidos na reação.
 ### Ferramentas <a name="ferramentas"></a>
 
 As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, principalmente, as plataformas Github e Jupyter Notebook, em que escrevemos os códigos usando a  linguagem Pyhton.
@@ -98,27 +95,10 @@ As ferramentas utilizadas para desenvolver o projeto dessa disciplina foram, pri
 <!-- Progresso -->
 ## Progresso do Projeto <a name="progresso"></a>
 
-- [x] Desafio 1: Definir a mistura combustível
-    - [x] Definição da Mistura
-    - [x] Definição da Entalpia da Mistura
-    - [x] Definição do Diagrama de Fases da Mistura
-    
-- [ ] Desafio 2: Determinar parâmetros termodinâmicos envolvidos na combustão
-    - [x] Determinação do volume da mistura de líquidos
-    - [x] Determinação da separação da mistura
-    - [ ] Determinação da não-idealidade das misturas
-    - [ ] Determinação da temperatura mínima de ebulição da mistura
-    - [ ] Determinação de potenciais termodinâmicos da reação de cobustão
-    
-- [ ] Desafio 3: Fazer balanço estequiométrico e energético até etapa de aquecimento do boiler
-    - [ ] Cálculo da quantidade de energia transferida para a caldeira
-    - [ ] Consideração da quantidade de reagentes usados na combustão
-    - [ ] Consideração das reações envolvidas na combustão
+- [x] Desafio 1: Modelo de Disco Rígido
+- [ ] Desafio 2: Modelo Tridimensional (Esferas rígidas)
+- [ ] Desafio 3: Reação Química
 
-- [ ] Desafio 4: Elaborar relatório final
-   
-
-Entre nas pastas [Desafio 1](https://github.com/benetao/Cinetica_Quimica/tree/main/Desafio%201), [Desafio 2](https://github.com/benetao/Cinetica_Quimica/tree/main/Desafio%202), [Desafio 3](https://github.com/benetao/Cinetica_Quimica/tree/main/Desafio%203), [Desafio 4](https://github.com/benetao/Cinetica_Quimica/tree/main/Desafio%204), [Desafio 5](https://github.com/benetao/Cinetica_Quimica/tree/main/Desafio%205) e [Desafio 6 (Relatório Final)](https://github.com/benetao/Cinetica_Quimica/tree/main/Desafio%206%20(Relat%C3%B3rio%20Final)) para acessar os notebooks e arquivos dos respectivos desafios com suas resoluções. Se quiser vê-los no seu próprio computador, baixe a pasta inteira para conseguir rodar o código com as imagens.
 <!-- Sobre mim -->
 ## Sobre nós
 
