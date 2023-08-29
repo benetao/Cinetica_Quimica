@@ -68,9 +68,9 @@ Na disciplina de Cinética Química, ministrada pelo professor Amauri de Paula, 
 
 * `Mecanismos de reação`;
 
-*`Leis de velocidade`;
+* `Leis de velocidade`;
 
-*`Energia de ativação`;
+* `Energia de ativação`;
 
 * `Ordem de reação`.
  
